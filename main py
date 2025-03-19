@@ -11,9 +11,9 @@ from aiogram.filters import Command
 from aiogram.utils.markdown import hbold
 from aiogram.utils.callback_answer import CallbackAnswerMiddleware
 
-API_TOKEN = '7754185214:AAGbe0EMJ8qzlnUtS4Ee-ggyCFDBGYIVyKQ'
-ADMIN_USERNAME = '@Darkboy336'
-ADMIN_CHAT_ID = 7535818274  # Admin chat ID
+API_TOKEN = '7981384061:AAFsLTgNi0rb8r6JeV-L8HJUuvcR1Svm0no'
+ADMIN_USERNAME = '@mr_amonxd'
+ADMIN_CHAT_ID = 6725223313  # Admin chat ID
 BRAINTREE_API_URL = 'https://darkboy-b3.onrender.com/key=dark/cc='
 
 bot = Bot(token=API_TOKEN)
